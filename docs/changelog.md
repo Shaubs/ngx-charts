@@ -1,5 +1,9 @@
 # Changelog
 
+## 20.1.3
+
+- Bump: Upgrade to angular 15
+
 ## 20.1.2
 
 - Bump: d3-color from 2.0.0 to 3.1.0 in library
